@@ -1,13 +1,13 @@
-# The Enigma
+# The Anubis
 
-Although I named it as Engima, this program is used to encrypt and decrypt messages using RSA algorithm.
+Although I named it as Anubis, this program is used to encrypt and decrypt messages using RSA algorithm.
 
 ## Usage
 
 1. Go to the lib directory and run in your command line
-   `cd ./Enigma/lib`
+   `cd ./Anubis/lib`
 
-2. `python3 enigma.py`
+2. `python3 Anubis.py`
 
 ## Commands
 
